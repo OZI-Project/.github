@@ -1,4 +1,4 @@
-![OZI social preview](https://www.oziproject.dev/ozi_social_preview.png)
+![https://www.oziproject.dev/ozi_social_preview.png](https://raw.githubusercontent.com/OZI-Project/OZIproject.dev/main/ozi_social_preview_invert.png)
 
 ## OZI Project Development Organization
 
