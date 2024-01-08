@@ -11,9 +11,9 @@ This organization is the official working group for the development of OZI pure 
 
 ## GitHub Actions
   
-* [checkpoint](https://github.com/OZI-Project/checkpoint)
-* [release](https://github.com/OZI-Project/release)
-* [publish](https://github.com/OZI-Project/publish)
+* [checkpoint](https://github.com/OZI-Project/checkpoint) - This actions runs OZI specified checks of dist, lint, and test environments.
+* [release](https://github.com/OZI-Project/release) - This action checks semantic-release and creates wheels per OZI specified Python minor versions supported and a source distribution, all release artifacts are signed with sigstore.
+* [publish](https://github.com/OZI-Project/publish) - This action publishes the wheels, source distributions, and signatures.
 
 ## GitLab Components (externally hosted)
 
