@@ -15,7 +15,7 @@ This organization is the official working group for the development of OZI pure 
 
 ## GitLab Components
 
-* [pipeline](https://gitlab.com/ozi-project/pipeline)
+* [pipeline](https://gitlab.com/ozi-project/pipeline) - checkpoint, release, and publish components; work in progress.
 
 ## Similar Projects
 
