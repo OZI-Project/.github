@@ -13,7 +13,7 @@ This organization is the official working group for the development of OZI pure 
 * [release](https://github.com/OZI-Project/release)
 * [publish](https://github.com/OZI-Project/publish)
 
-## GitLab Components
+## GitLab Components (externally hosted)
 
 * [pipeline](https://gitlab.com/ozi-project/pipeline) - checkpoint, release, and publish components; work in progress.
 
