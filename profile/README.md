@@ -4,8 +4,10 @@ This organization is the official working group for the development of OZI pure 
 
 ## Repositories
 
-* [OZI](https://github.com/OZI-Project/OZI)
-* [blastpipe](https://github.com/OZI-Project/blastpipe)
+* [OZI](https://github.com/OZI-Project/OZI) - The focus of this organization, pure Python packaging with Meson.
+* [blastpipe](https://github.com/OZI-Project/blastpipe) - OZI's end-to-end test suite.
+* [oziproject.dev](https://github.com/OZI-Project/OZIproject.dev) - The project homepage source.
+* [docs.oziproject.dev](https://github.com/OZI-Project/docs) - The project documentation source. 
 
 ## GitHub Actions
   
