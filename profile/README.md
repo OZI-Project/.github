@@ -2,6 +2,18 @@
 
 This organization is the official working group for the development of OZI pure python packaging tools for the Meson build system.
 
+## Goals
+
+### Commandline Toolchain
+
+* Initialize and output SLSA-compliance-ready package sources.
+* Supply-chain as sourcecode - all packaging related metadata in the pyproject.toml.
+* Track skipped coverage and quality assurance checks.
+
+### Continuous Integration and Deployment
+
+* Be as CI/CD-provisioner agnostic as possible.
+
 ## Repositories
 
 ### Python Packages
