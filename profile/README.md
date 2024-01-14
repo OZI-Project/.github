@@ -6,7 +6,7 @@ This organization is the official working group for the development of OZI pure 
 
 ### Commandline Toolchain
 
-* Initialize and output SLSA-compliance-ready package sources.
+* Initialize and output SLSA-compliance-ready pure Python package sources.
 * Supply-chain as sourcecode - all packaging related metadata in the pyproject.toml.
 * Track skipped coverage and quality assurance checks.
 
