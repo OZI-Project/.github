@@ -15,9 +15,9 @@ This organization is the official working group for the development of OZI pure 
 * Be as CI/CD-provisioner agnostic as possible.
 * Provide templated workflows:
   * checkpoint - run dist, test, and lint checks
-  * release - build and sign releases
-  * generate-provenance - [SLSA v1.0 - Level 3](https://slsa.dev/spec/v1.0/levels#build-l3) provenance.
-  * publish - publish releases
+  * release - build [sigstore](https://sigstore.dev/) signed wheel and source releases
+  * generate-provenance - [SLSA v1.0 - Level 3](https://slsa.dev/spec/v1.0/levels#build-l3) provenance
+  * publish - publish releases to PyPI; and mirror releases, signature bundles, and provenance in a tagged release
 
 ## Repositories
 
