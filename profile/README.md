@@ -36,10 +36,14 @@ This organization is the official working group for the development of OZI pure 
 
 * [pipeline](https://gitlab.com/ozi-project/pipeline) - checkpoint, release, and publish components; work in progress.
 
-### Forks
+### Forks (GitHub repositories)
 
 * [pyc_wheel](https://github.com/OZI-Project/pyc_wheel)
 * [python-email-validator](https://github.com/OZI-Project/python-email-validator)
+
+### Forks (externally hosted)
+
+* [mesonpep517](https://gitlab.com/ozi-project/forks/mesonpep517)
 
 ## Similar Projects
 
