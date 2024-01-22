@@ -6,8 +6,8 @@ This organization is the official working group for the development of OZI pure 
 
 ### Commandline Toolchain
 
-* Initialize and output [SLSA v1.0 - Level 3](https://slsa.dev/spec/v1.0/levels#build-l3) pure Python package sources.
-* Supply-chain as sourcecode - all packaging related metadata in the pyproject.toml.
+* Initialize and output pure Python package sources with [SLSA v1.0 - Level 3](https://slsa.dev/spec/v1.0/levels#build-l3) provenance.
+* Supply-chain as sourcecode; all packaging related metadata in the pyproject.toml.
 * Track skipped coverage and quality assurance checks.
 
 ### Continuous Integration and Deployment
