@@ -6,17 +6,18 @@ This organization is the official working group for the development of OZI pure 
 
 ### Commandline Toolchain
 
-* Initialize and output pure Python package sources with the following templated workflows:
-  * checkpoint - run dist, test, and lint checks
-  * release - build and sign releases
-  * generate-provenance - [SLSA v1.0 - Level 3](https://slsa.dev/spec/v1.0/levels#build-l3) provenance.
-  * publish - publish releases
+* Initialize and output pure Python package sources.
 * Supply-chain as sourcecode; all packaging related metadata in the pyproject.toml.
 * Track skipped coverage and quality assurance checks.
 
 ### Continuous Integration and Deployment
 
 * Be as CI/CD-provisioner agnostic as possible.
+* Provide templated workflows:
+  * checkpoint - run dist, test, and lint checks
+  * release - build and sign releases
+  * generate-provenance - [SLSA v1.0 - Level 3](https://slsa.dev/spec/v1.0/levels#build-l3) provenance.
+  * publish - publish releases
 
 ## Repositories
 
