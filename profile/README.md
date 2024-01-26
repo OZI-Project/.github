@@ -8,6 +8,8 @@ This organization is the official working group for the development of OZI pure 
 
 * Initialize and output pure Python package sources.
 * Supply-chain as sourcecode; all packaging related metadata in the pyproject.toml.
+  * [x] NO setup.cfg
+  * [x] NO setup.py
 * Track skipped coverage and quality assurance checks.
 
 ### Continuous Integration and Deployment
