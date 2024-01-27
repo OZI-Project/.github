@@ -16,7 +16,7 @@ This organization is the official working group for the development of OZI pure 
 
 * Be as CI/CD-provisioner agnostic as possible - GitHub is just the only one supported for the time being, GitLab is a Work in Progress.
 * Provide templated workflows:
-  * checkpoint - run dist, test, and lint checks
+  * checkpoint - run dist, test, and lint checks; procure signed test log artifacts
   * release - build [sigstore](https://sigstore.dev/) signed wheel and source releases
   * generate-provenance - [SLSA v1.0 - Level 3](https://slsa.dev/spec/v1.0/levels#build-l3) provenance
   * publish - publish releases to [PyPI](https://pypi.org/); and mirror releases, signature bundles, and provenance in a tagged release
