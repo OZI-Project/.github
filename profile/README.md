@@ -15,7 +15,7 @@ This organization is the official working group for the development of OZI pure 
 ### Continuous Integration and Deployment
 
 * 🚧 Be as CI/CD-provisioner agnostic as possible - GitHub is the only one supported for the time being, GitLab is a Work in Progress.
-* [x] Provide templated workflows:
+* Provide templated workflows:
   * [x] checkpoint - run dist, test, and lint checks; procure signed test log artifacts
   * [x] release - build [sigstore](https://sigstore.dev/) signed wheel and source releases
   * [x] generate-provenance - [SLSA v1.0 - Level 3](https://slsa.dev/spec/v1.0/levels#build-l3) provenance
