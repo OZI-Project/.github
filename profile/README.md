@@ -45,7 +45,7 @@ This organization is the official working group for the development of OZI pure 
 
 ### Forks (GitHub repositories)
 
-* [mesonpep517](https://github.com/OZI-Project/python-email-validator)
+* [mesonpep517](https://github.com/OZI-Project/mesonpep517)
 * [pyc_wheel](https://github.com/OZI-Project/pyc_wheel)
 * [python-email-validator](https://github.com/OZI-Project/python-email-validator)
 
