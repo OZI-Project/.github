@@ -2,24 +2,32 @@
 
 This organization is the official working group for the development of OZI pure python packaging tools for the Meson build system.
 
+## Motivation
+
+### Commandline Toolchain
+
+* Supply-chain as sourcecode; all packaging-related metadata in the pyproject.toml.
+  * [x] NO setup.cfg
+  * [x] NO setup.py
+
+### Continuous Integration and Deployment
+
+* A publishing tool should provide templated workflows:
+  * [x] checkpoint - run dist, test, and lint checks; procure signed test log artifacts
+  * [x] release - build [sigstore](https://sigstore.dev/) signed wheel and source releases
+  * [x] generate-provenance - [SLSA v1.0 - Level 3](https://slsa.dev/spec/v1.0/levels#build-l3) provenance
+  * [x] publish - publish releases to [PyPI](https://pypi.org/); and mirror releases, signature bundles, and provenance in a tagged release
+
 ## Goals
 
 ### Commandline Toolchain
 
 * 🚧 Initialize and output pure Python package sources.
-* Supply-chain as sourcecode; all packaging-related metadata in the pyproject.toml.
-  * [x] NO setup.cfg
-  * [x] NO setup.py
 * 🚧 Track skipped coverage and quality assurance checks.
 
 ### Continuous Integration and Deployment
 
 * 🚧 Be as CI/CD-provisioner agnostic as possible - GitHub is the only one supported for the time being, GitLab is a Work in Progress.
-* Provide templated workflows:
-  * [x] checkpoint - run dist, test, and lint checks; procure signed test log artifacts
-  * [x] release - build [sigstore](https://sigstore.dev/) signed wheel and source releases
-  * [x] generate-provenance - [SLSA v1.0 - Level 3](https://slsa.dev/spec/v1.0/levels#build-l3) provenance
-  * [x] publish - publish releases to [PyPI](https://pypi.org/); and mirror releases, signature bundles, and provenance in a tagged release
 
 ## Repositories
 
