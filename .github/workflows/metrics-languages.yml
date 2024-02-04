@@ -1,4 +1,4 @@
-name: Metrics
+name: Metrics - Languages
 on:
   # Schedule updates (each hour) 
   schedule: [{cron: "0 * * * *"}]
@@ -17,7 +17,7 @@ jobs:
           # Options
           user: OZI-Project
           template: classic
-          base: header, activity, community, metadata
+          base: activity, community, metadata
           config_timezone: America/Chicago
           commits_authoring: rjdbcm
           plugin_introduction: yes
