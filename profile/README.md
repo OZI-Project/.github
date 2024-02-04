@@ -31,6 +31,9 @@ This organization is the official working group for the development of OZI pure 
 
 ## Repositories
 
+[![Metrics](https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics.svg)](https://github.com/orgs/OZI-Project/repositories?q=&type=all&language=&sort=)
+![Issue Metrics](https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-issue-followup.svg)
+
 ### Python Packages
 
 * [OZI](https://github.com/OZI-Project/OZI) - The focus of this organization, pure Python packaging with Meson.
@@ -73,8 +76,3 @@ This organization is the official working group for the development of OZI pure 
 ![PyPI - Version](https://img.shields.io/pypi/v/poetry?style=plastic&logo=poetry&label=Poetry&link=https%3A%2F%2Fpython-poetry.org%2F&link=https%3A%2F%2Fpypi.org%2Fproject%2Fpoetry%2F)
 ![PyPI - Version](https://img.shields.io/pypi/v/pdm?style=plastic&logo=pdm&label=PDM&link=https%3A%2F%2Fpdm-project.org%2Flatest%2F&link=https%3A%2F%2Fpypi.org%2Fproject%2Fpdm%2F)
 
-
-## Organization Metrics
-
-[![Metrics](https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics.svg)](https://github.com/orgs/OZI-Project/repositories?q=&type=all&language=&sort=)
-![Issue Metrics](https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-issue-followup.svg)
