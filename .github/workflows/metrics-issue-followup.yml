@@ -11,8 +11,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # 3.34
         with:
+          user: OZI-Project
           filename: github-metrics-issue-followup.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_followup: yes
           plugin_followup_indepth: yes
+          config_timezone: America/Chicago
