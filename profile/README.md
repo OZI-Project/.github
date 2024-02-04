@@ -70,4 +70,4 @@ This organization is the official working group for the development of OZI pure 
 
 ## Organization Metrics
 
-![Metrics](https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics.svg)
+[![Metrics](https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics.svg)](https://github.com/orgs/OZI-Project/repositories?q=&type=all&language=&sort=)
