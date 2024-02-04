@@ -19,6 +19,7 @@ jobs:
           template: classic
           base: activity, community, repositories, metadata
           config_timezone: America/Chicago
+          commits_authoring: rjdbcm
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_languages: yes
