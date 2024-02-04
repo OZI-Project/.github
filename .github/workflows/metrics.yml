@@ -25,5 +25,3 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_colors: github
-          plugin_projects: yes
-          plugin_projects_limit: 4
