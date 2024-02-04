@@ -16,3 +16,5 @@ jobs:
           user: OZI-Project
           template: repository
           repo: OZI
+          plugin_lines: yes
+          plugin_followup: yes
