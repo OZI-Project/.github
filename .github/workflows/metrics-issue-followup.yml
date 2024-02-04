@@ -14,7 +14,7 @@ jobs:
           user: OZI-Project
           filename: github-metrics-issue-followup.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: metadata
+          base: metadata,
           plugin_followup: yes
           plugin_followup_indepth: yes
           config_timezone: America/Chicago
