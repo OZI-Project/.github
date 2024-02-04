@@ -37,7 +37,7 @@ This organization is the official working group for the development of OZI pure 
 ### Python Packages
 
 [![OZI](https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-ozi.svg)](https://github.com/OZI-Project/OZI)
-* [blastpipe](https://github.com/OZI-Project/blastpipe) - OZI's end-to-end test suite.
+[![blastpipe](https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-blastpipe.svg)](https://github.com/OZI-Project/blastpipe)
 
 ### Project Web Resources
 
