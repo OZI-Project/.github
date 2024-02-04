@@ -17,9 +17,10 @@ jobs:
           # Options
           user: OZI-Project
           template: classic
-          base: repositories, metadata
+          base: metadata,
           config_timezone: America/Chicago
           commits_authoring: rjdbcm
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_colors: github
+          plugin_languages_details: lines, bytes-size, percentage
