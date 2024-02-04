@@ -67,3 +67,7 @@ This organization is the official working group for the development of OZI pure 
 * [Hatch](https://github.com/pypa/hatch)
 * [meson-python](https://github.com/mesonbuild/meson-python)
 * [Python Dependency Manager](https://github.com/pdm-project/pdm)
+
+## Organization Metrics
+
+![Metrics](https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics.svg)
