@@ -48,7 +48,7 @@ Currently this project is in a Pre-alpha state.
 
 ### GitHub Actions
   
-* [checkpoint](https://github.com/OZI-Project/checkpoint) - This actions runs OZI specified checks of dist, lint, and test environments.
+[![checkpoint](https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-checkpoint.svg)](https://github.com/OZI-Project/checkpoint)
 * [release](https://github.com/OZI-Project/release) - This action checks semantic-release and creates wheels per OZI specified Python minor versions supported and a source distribution, all release artifacts are signed with sigstore.
 * [publish](https://github.com/OZI-Project/publish) - This action publishes the wheels, source distributions, and signatures.
 
