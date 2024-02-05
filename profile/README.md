@@ -14,7 +14,7 @@ Currently this project is in a Pre-alpha state.
 
 ### Continuous Integration and Deployment
 
-* Dependencies for the packaging process should be managed like actual source dependencies.
+* Dependencies for the packaging process should be managed like source dependencies.
 * A publishing tool should provide templated workflows:
   * [x] checkpoint - run dist, test, and lint checks; procure signed test log artifacts
   * [x] release - build [sigstore](https://sigstore.dev/) signed wheel and source releases
