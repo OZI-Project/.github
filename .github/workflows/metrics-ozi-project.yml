@@ -17,3 +17,6 @@ jobs:
             h1, h2, h3 {
               color: #e1e7ef;
             }
+            .field svg {
+              color: #e1e7ef;
+            }
