@@ -17,6 +17,6 @@ jobs:
             h1, h2, h3 {
               color: #e1e7ef;
             }
-            .field svg {
+            .activity .details, .activity .timestamp {
               color: #e1e7ef;
             }
