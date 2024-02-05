@@ -33,15 +33,15 @@ Currently this project is in a Pre-alpha state.
 
 ## Repositories
 
-[<img align="left" width="390" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-ozi.svg">](https://github.com/OZI-Project/OZI)
-[<img align="left" width="390" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-blastpipe.svg">](https://github.com/OZI-Project/blastpipe)
+[<img align="left" width="375" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-ozi.svg">](https://github.com/OZI-Project/OZI)
+[<img align="left" width="375" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-blastpipe.svg">](https://github.com/OZI-Project/blastpipe)
 
-[<img align="left" width="390" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-OZIProject_dev.svg">](https://github.com/OZI-Project/OZIproject.dev)
-[<img align="left" width="390" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-docs.svg">](https://github.com/OZI-Project/docs)
+[<img align="left" width="375" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-OZIProject_dev.svg">](https://github.com/OZI-Project/OZIproject.dev)
+[<img align="left" width="375" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-docs.svg">](https://github.com/OZI-Project/docs)
 
-[<img align="left" width="390" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-checkpoint.svg">](https://github.com/OZI-Project/checkpoint)
-[<img align="left" width="390" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-release.svg">](https://github.com/OZI-Project/release)
-[<img align="left" width="390" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-publish.svg">](https://github.com/OZI-Project/publish)
+[<img align="left" width="375" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-checkpoint.svg">](https://github.com/OZI-Project/checkpoint)
+[<img align="left" width="375" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-release.svg">](https://github.com/OZI-Project/release)
+[<img align="left" width="375" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-publish.svg">](https://github.com/OZI-Project/publish)
 ![Issue Metrics](https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-issue-followup.svg)
 
 <br/><br/>
