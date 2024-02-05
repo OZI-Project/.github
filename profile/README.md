@@ -43,8 +43,8 @@ Currently this project is in a Pre-alpha state.
 
 ### Project Web Resources
 
-* [oziproject.dev](https://github.com/OZI-Project/OZIproject.dev) - The project homepage source.
-* [docs.oziproject.dev](https://github.com/OZI-Project/docs) - The project documentation source. 
+[![oziproject.dev](https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-OZIProject_dev.svg)](https://github.com/OZI-Project/OZIproject.dev)
+[![docs.oziproject.dev](https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-docs.svg)](https://github.com/OZI-Project/docs)
 
 ### GitHub Actions
   
