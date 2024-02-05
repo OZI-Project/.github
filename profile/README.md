@@ -33,24 +33,18 @@ Currently this project is in a Pre-alpha state.
 
 ## Repositories
 
-[![Metrics](https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics.svg)](https://github.com/orgs/OZI-Project/repositories?q=&type=all&language=&sort=)
+[<img align="left" width="390" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-ozi.svg">](https://github.com/OZI-Project/OZI)
+[<img align="left" width="390" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-blastpipe.svg">](https://github.com/OZI-Project/blastpipe)
+
+[<img align="left" width="390" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-OZIProject_dev.svg">](https://github.com/OZI-Project/OZIproject.dev)
+[<img align="left" width="390" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-docs.svg">](https://github.com/OZI-Project/docs)
+
+[<img align="left" width="390" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-checkpoint.svg">](https://github.com/OZI-Project/checkpoint)
+[<img align="left" width="390" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-release.svg">](https://github.com/OZI-Project/release)
+[<img align="left" width="390" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-publish.svg">](https://github.com/OZI-Project/publish)
 ![Issue Metrics](https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-issue-followup.svg)
 
-### Python Packages
-
-[![OZI](https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-ozi.svg)](https://github.com/OZI-Project/OZI)
-[![blastpipe](https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-blastpipe.svg)](https://github.com/OZI-Project/blastpipe)
-
-### Project Web Resources
-
-[![oziproject.dev](https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-OZIProject_dev.svg)](https://github.com/OZI-Project/OZIproject.dev)
-[![docs.oziproject.dev](https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-docs.svg)](https://github.com/OZI-Project/docs)
-
-### GitHub Actions
-  
-[![checkpoint](https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-checkpoint.svg)](https://github.com/OZI-Project/checkpoint)
-[![release](https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-release.svg)](https://github.com/OZI-Project/release)
-[![publish](https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-publish.svg)](https://github.com/OZI-Project/publish)
+<br/><br/>
 
 ### GitLab Components (externally hosted)
 
