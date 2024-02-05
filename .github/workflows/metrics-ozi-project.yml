@@ -12,8 +12,6 @@ jobs:
           filename: github-metrics-ozi-project.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: OZI-Project
-          template: organization
-          plugin_lines: yes
           config_timezone: America/Chicago
           plugin_discussions: yes
           plugin_discussions_categories_limit: 8
