@@ -12,7 +12,7 @@ jobs:
           filename: github-metrics-ozi-project.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: OZI-Project
-          config_timezone: America/Chicago
+          base: header, repositories
           extras_css: |
             h1, h2, h3 {
               color: #e1e7ef;
