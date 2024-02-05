@@ -20,3 +20,6 @@ jobs:
             .field {
               color: #e1e7ef;
             }
+            .avatar {
+              filter: invert(1);
+            }
