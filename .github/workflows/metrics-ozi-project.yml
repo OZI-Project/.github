@@ -14,6 +14,9 @@ jobs:
           user: OZI-Project
           base: header, repositories
           extras_css: |
+            svg {
+              background-color: #555555;
+            }
             h1, h2, h3 {
               color: #e1e7ef;
             }
