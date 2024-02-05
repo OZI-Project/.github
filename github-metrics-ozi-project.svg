@@ -8,6 +8,9 @@
 }
 .field {
  color: #e1e7ef;
+}
+.avatar {
+ filter: invert(1);
 }</style>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -114,7 +117,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 5 Feb 2024, 10:43:14 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Feb 2024, 10:52:04 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
