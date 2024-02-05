@@ -16,7 +16,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.82mb of code in 4091 edited files across 1962 commits</small>
+                <small>estimation from 2.82mb of code in 4092 edited files across 1963 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -141,7 +141,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 5 Feb 2024, 13:15:49 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Feb 2024, 14:20:03 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
