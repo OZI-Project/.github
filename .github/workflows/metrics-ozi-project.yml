@@ -1,7 +1,7 @@
 name: Metrics - OZI-Project
 on:
   # Schedule updates (each hour) 
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
 jobs:
   github-metrics-ozi-project:
