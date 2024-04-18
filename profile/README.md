@@ -2,7 +2,7 @@
 
 This organization is the official working group for the development of OZI pure python packaging tools for the Meson build system.
 
-Currently this project is in a Pre-alpha state.
+Currently this project is in Alpha state. 
 
 ## Motivation
 
@@ -11,6 +11,8 @@ Currently this project is in a Pre-alpha state.
 * Supply-chain as sourcecode; all packaging-related metadata in the pyproject.toml.
   * [x] NO setup.cfg
   * [x] NO setup.py
+* Initialize and output pure Python package sources.
+* Track skipped coverage and quality assurance checks.
 
 ### Continuous Integration and Deployment
 
@@ -23,44 +25,13 @@ Currently this project is in a Pre-alpha state.
 
 ## Goals
 
-### Commandline Toolchain
-
-* 🚧 Initialize and output pure Python package sources.
-* 🚧 Track skipped coverage and quality assurance checks.
-
 ### Continuous Integration and Deployment
 
 * 🚧 Be as CI/CD-provisioner agnostic as possible - GitHub is the only one supported for the time being, GitLab is a Work in Progress.
 
-## Repositories
-
-[<img align="left" width="380" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-ozi.svg">](https://github.com/OZI-Project/OZI)
-[<img align="left" width="380" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-blastpipe.svg">](https://github.com/OZI-Project/blastpipe)
-
-[<img align="right" width="380" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-OZIProject_dev.svg">](https://github.com/OZI-Project/OZIproject.dev)
-[<img align="right" width="380" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-docs.svg">](https://github.com/OZI-Project/docs)
-
-[<img align="left" width="380" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-checkpoint.svg">](https://github.com/OZI-Project/checkpoint)
-[<img align="left" width="380" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-release.svg">](https://github.com/OZI-Project/release)
-[<img align="right" width="380" src="https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-repo-publish.svg">](https://github.com/OZI-Project/publish)
-
-![Issue Metrics](https://raw.githubusercontent.com/OZI-Project/.github/main/github-metrics-issue-followup.svg)
-<br/><br/>
-<hr>
-
 ### GitLab Components (externally hosted)
 
 * [pipeline](https://gitlab.com/ozi-project/pipeline) - checkpoint, release, and publish components; work in progress.
-
-### Forks (GitHub repositories)
-
-* [mesonpep517](https://github.com/OZI-Project/mesonpep517)
-* [pyc_wheel](https://github.com/OZI-Project/pyc_wheel)
-* [python-email-validator](https://github.com/OZI-Project/python-email-validator)
-
-### Forks (externally hosted, archived, development continues on GitHub)
-
-* [mesonpep517](https://gitlab.com/ozi-project/forks/mesonpep517)
 
 ## Similar Projects
 
