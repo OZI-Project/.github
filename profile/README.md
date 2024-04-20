@@ -4,20 +4,20 @@ This organization is the official working group for the development of OZI pure 
 
 Currently this project is in Alpha state. 
 
-## Motivation
+## Features
 
 ### Commandline Toolchain
 
 * Supply-chain as sourcecode; all packaging-related metadata in the pyproject.toml.
   * [x] NO setup.cfg
   * [x] NO setup.py
-* Initialize and output pure Python package sources.
-* Track skipped coverage and quality assurance checks.
+* Python package sources as [meson](https://mesonbuild.com) projects.
+* Monitor skipped coverage and quality assurance for the packaging process.
 
 ### Continuous Integration and Deployment
 
-* Dependencies for the packaging process should be managed like source dependencies.
-* A publishing tool should provide templated workflows:
+* Dependencies for the packaging process are managed, like source dependencies, in isolation.
+* The publishing tool provides templated workflows:
   * [x] checkpoint - run dist, test, and lint checks; procure signed test log artifacts
   * [x] release - build [sigstore](https://sigstore.dev/) signed wheel and source releases
   * [x] generate-provenance - [SLSA v1.0 - Level 3](https://slsa.dev/spec/v1.0/levels#build-l3) provenance
