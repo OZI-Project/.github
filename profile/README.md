@@ -1,37 +1,8 @@
 ## OZI Project
 
-This organization is the official working group for the development of OZI pure python packaging tools for the Meson build system.
+Python packaging tools for the Meson build system.
 
-Currently this project is in Alpha state. 
-
-## Features
-
-### Commandline Toolchain
-
-* Supply-chain as sourcecode; all packaging-related metadata in the pyproject.toml.
-  * [x] NO setup.cfg
-  * [x] NO setup.py
-* Python package sources as [meson](https://mesonbuild.com) projects.
-* Monitor skipped coverage and quality assurance for the packaging process.
-
-### Continuous Integration and Deployment
-
-* Dependencies for the packaging process are managed, like source dependencies, in isolation.
-* The publishing tool provides templated workflows:
-  * [x] checkpoint - run dist, test, and lint checks; procure signed test log artifacts
-  * [x] release - build [sigstore](https://sigstore.dev/) signed wheel and source releases
-  * [x] generate-provenance - [SLSA v1.0 - Level 3](https://slsa.dev/spec/v1.0/levels#build-l3) provenance
-  * [x] publish - publish releases to [PyPI](https://pypi.org/); and mirror releases, signature bundles, and provenance in a tagged release
-
-## Goals
-
-### Continuous Integration and Deployment
-
-* 🚧 Be as CI/CD-provisioner agnostic as possible - GitHub is the only one supported for the time being, GitLab is a Work in Progress.
-
-### GitLab Components (externally hosted)
-
-* [pipeline](https://gitlab.com/ozi-project/pipeline) - checkpoint, release, and publish components; work in progress.
+Currently this project is in Alpha status.
 
 ## Similar Projects
 
