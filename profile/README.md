@@ -1,8 +1,6 @@
 ## OZI Project
 
-Python packaging tools for the Meson build system.
-
-Currently this project is in Alpha status.
+Currently this project is in Alpha status; for more information please visit the [homepage](https://oziproject.dev/).
 
 ## Similar Projects
 
