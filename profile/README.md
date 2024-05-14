@@ -2,7 +2,7 @@
 
 Currently this project is in Alpha status; for more information please visit the [homepage](https://oziproject.dev/).
 
-## Similar Projects
+## Comparison of Python Packaging Projects
 
 | Project                                                                                                                                                                                                                    | Status                        | Repo Size                                                                                                             | PyPI Package  | Meson Integration | Python Implementation                                                                        | Python Versions
 ---                                                                                                                                                                                                                          | ---                           | ---                                                                                                                   | ---           | ---           | ---                                                                                          | ---
