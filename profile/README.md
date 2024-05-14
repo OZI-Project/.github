@@ -4,6 +4,8 @@ Currently this project is in Alpha status; for more information please visit the
 
 ## Comparison of Python Packaging Projects
 
+This was current as of May 2024.
+
 | Project                                                                                                                                        | Status                        | Repo Size                                                                                                             | PyPI Package  | Meson Integration | CI Templates | Python Implementation                                                                        | Python Versions
 ---                                                                                                                                              | ---                           | ---                                                                                                                   | ---           | ---               | ---          | ---                                                                                          | ---
 [![OZI Badge](https://raw.githubusercontent.com/OZI-Project/brand/main/images/ozi-badge.svg)](https://oziproject.dev/)                           | Alpha                         | ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/OZI-Project/OZI?label=%20)<sup>4</sup> | ✅            | ✅                | ✅            | ![PyPI - Implementation](https://img.shields.io/pypi/implementation/OZI?label=%20)           | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/OZI?label=%20)
