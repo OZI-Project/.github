@@ -18,6 +18,6 @@ This was current as of May 2024.
 1. Assumption based on years in use and semantic version.
 2. Based on hatchling metadata
 3. Based on pdm-backend metadata
-4. OZI requires blastpipe which includes ~800kB of templates.
+4. OZI requires ozi-templates which includes ~800kB of templates.
 5. See info at https://rye-up.com/guide/toolchains/
 6. Rye uses Python builds from https://github.com/indygreg/python-build-standalone
