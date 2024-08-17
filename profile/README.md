@@ -1,6 +1,6 @@
 ## OZI Project
 
-Currently this project is in Alpha status; for more information please visit the [homepage](https://oziproject.dev/).
+Currently this project is in Beta; for more information please visit the [homepage](https://oziproject.dev/).
 
 ## Comparison of Python Packaging Projects
 
