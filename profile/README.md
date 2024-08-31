@@ -1,8 +1,9 @@
 ## OZI Project
 
+This is the development home for the OZI packaging tool and related utilities.
 Currently this project is in Beta; for more information please visit the [homepage](https://oziproject.dev/).
 
-## Comparison of Python Packaging Projects
+## Comparison of Python Packaging Tools
 
 | Project                                      | [![OZI Badge](https://raw.githubusercontent.com/OZI-Project/brand/main/images/ozi-badge.svg)](https://oziproject.dev/) | [![Static Badge](https://img.shields.io/badge/-Flit-grey?logo=pypi)](https://pypi.org/project/flit/) | [![Static Badge](https://img.shields.io/badge/-Hatch-grey?logo=pypi)](https://pypi.org/project/hatch/) | [![Static Badge](https://img.shields.io/badge/-Poetry-grey?logo=poetry)](https://pypi.org/project/poetry/)     | [![Static Badge](https://img.shields.io/badge/-PDM-grey?logo=pdm)](https://pypi.org/project/pdm/)         | [![Rye](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mitsuhiko/rye/main/artwork/badge.json)](https://rye-up.com) | [![PyScaffold](https://img.shields.io/badge/-PyScaffold?style=social&logo=pyscaffold&logoColor=005CA0&label=PyScaffold)](https://pyscaffold.org/) |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
