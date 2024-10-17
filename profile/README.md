@@ -1,4 +1,3 @@
-## OZI Project
 
 This is the development home for the OZI packaging tool and related utilities.
 
