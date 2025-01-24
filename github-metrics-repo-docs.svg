@@ -39,19 +39,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-bg)" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-L3-bg)" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-bg)" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-L1-bg)" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-L3-bg)" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-bg)" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-L4-bg)" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-L1-bg)" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-bg)" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-L4-bg)" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-L1-bg)" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-bg)" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-L1-bg)" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-bg)" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-bg)" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-bg)" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-bg)" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-bg)" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-L1-bg)" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-bg)" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -186,9 +186,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="406.10679807836465" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="406.10679807836465" y="0" width="30.49605308615419" height="8" fill="#ffa500"/>
-                    <rect mask="url(#languages-bar)" x="436.6028511645188" y="0" width="23.397148835481158" height="8" fill="#ffff00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="406.37177383261223" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="406.37177383261223" y="0" width="30.346113680441594" height="8" fill="#ffa500"/>
+                    <rect mask="url(#languages-bar)" x="436.7178875130538" y="0" width="23.282112486946144" height="8" fill="#ffff00"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -200,9 +200,9 @@
                                 reStructuredText
                             </div>
                             <small>
-                                <div>7.29k lines</div>
-                                <div>270 kB</div>
-                                <div>88.28%</div>
+                                <div>7.35k lines</div>
+                                <div>272 kB</div>
+                                <div>88.34%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -215,7 +215,7 @@
                             <small>
                                 <div>427 lines</div>
                                 <div>15.6 kB</div>
-                                <div>5.09%</div>
+                                <div>5.06%</div>
                             </small>
                         </div>
                     </section>
@@ -230,14 +230,14 @@
                             <small>
                                 <div>264 lines</div>
                                 <div>20.3 kB</div>
-                                <div>6.63%</div>
+                                <div>6.6%</div>
                             </small>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
-                <span>Last updated 22 Jan 2025, 18:34:51 with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jan 2025, 18:34:32 with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
